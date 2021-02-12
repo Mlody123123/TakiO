@@ -1,0 +1,14 @@
+//////////Paczka PixelBlaze\\\\\\\\\\
+//////////Proces instalacji\\\\\\\\\\
+1.Zainstaluj forge ze strony http://files.minecraftforge.net/
+2.Pobierz weersjee forga 1.15.2 (na inneej mody nie bedą działały.
+3.Przenieś zainstalowanegi forge'a na pulpit i w niego kliknij.
+4.Kliknij instal client i klinij przycisk "instal".
+5.Po pobraniu forga wejdz w %appdata%.
+6.Wyszukaj folderu .minecraft
+7.Wejdz w foldej "versions" i sprawdz czy forge 1.15.2 jest zainstalowany.
+8.Wejdz w Minecraft Launcher
+9.Wyszukaj w instalacji wersji gry "forge 1.15.2" i ja zainstaluj.
+10.Po tym procesie wyjdz z gry i wejsc jeszcze raz w %appdata% i .minecraft
+11.Tym razem wejdz w folder mods i przerzuc wszystkie pliki z folderu "Paczka modów na PixelBlaze.pl" do tego folderu.
+12.I to tyle, widzimy sie na serwerze :D
